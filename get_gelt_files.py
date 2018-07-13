@@ -11,8 +11,8 @@ import os
 import datetime
 
 #TODO: variables for processing - add main method with args for input
-min_date = datetime.date(2013, 5, 25)
-max_date = datetime.date(2013, 5, 26)
+min_date = datetime.date(2018, 5, 25)
+max_date = datetime.date(2018, 5, 26)
 
 # GLOBAL CONSTANTS
 BASE_FILE_URL = "http://data.gdeltproject.org/events/"
